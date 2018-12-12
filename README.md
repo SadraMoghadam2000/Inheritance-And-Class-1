@@ -1,0 +1,1 @@
+# Inheritance-And-Class-1
